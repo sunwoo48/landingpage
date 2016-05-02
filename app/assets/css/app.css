@@ -462,7 +462,10 @@ footer .footerlist {
     	padding: 30px 1px 10px 10px;
     }
     .footer-log {
-    	padding-left: 0px;
+    	padding-left: 0px !important;
+    }
+    .footer-right {
+    	padding:0 15px !important;
     }
     h1 {
     	font-size: 40px !important;
