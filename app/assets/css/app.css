@@ -476,6 +476,9 @@ footer .footerlist {
 	.mailinput {
 		margin: 0 auto;
 	}
+	.navbar-brand {
+		padding: 15px !important;
+	}
 }
 
 
