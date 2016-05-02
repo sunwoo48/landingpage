@@ -453,7 +453,7 @@ footer .footerlist {
     	padding-right:10px !important;
     }
     .fEmail {
-    	width:60%;
+    	width:63%;
     }
     .footerlist a {
     	font-size:11px;
@@ -471,7 +471,10 @@ footer .footerlist {
 		font-size: 20px;
 	}
 	.chat {
-		padding: 12.5px 12.5px !important;
+		padding: 12.5px 17px !important;
+	}
+	.mailinput {
+		margin: 0 auto;
 	}
 }
 
