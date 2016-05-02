@@ -461,6 +461,9 @@ footer .footerlist {
     .footerlist li {
     	padding: 30px 1px 10px 10px;
     }
+    .footer-log {
+    	padding-left: 0px;
+    }
     h1 {
     	font-size: 40px !important;
     }
