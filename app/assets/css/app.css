@@ -342,8 +342,6 @@ body {
 	text-decoration: none;
 	background: #7dc855;
 	padding: 12.5px 38px 12.5px 38px !important;
-	padding-right: 20px;
-	padding-left: 20px;
 	border-color: #7dc855;
 }
 
@@ -418,6 +416,7 @@ footer .footerlist {
     }
     .inner-bottom p {
     	margin:0 auto;
+    	padding:10px 10px !important;
     	text-align: center;
     }
     .fEmail {
@@ -451,6 +450,7 @@ footer .footerlist {
     .inner-bottom p {
     	margin:0 auto;
     	text-align: center;
+    	padding-right:10px !important;
     }
     .fEmail {
     	width:inherit;
@@ -469,6 +469,9 @@ footer .footerlist {
 	}
 	.bodyslack p {
 		font-size: 20px;
+	}
+	.chat {
+		padding: 12.5px 12.5px !important;
 	}
 }
 
