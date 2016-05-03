@@ -480,8 +480,11 @@ footer .footerlist {
 		padding: 15px !important;
 	}
 	.mailinput{
-	margin-left:20px;
-}
+		margin-left:20px;
+	}
+	.navbar-right {
+		margin-right:0;
+	}
 }
 
 
